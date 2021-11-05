@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kaufmanelij
+- 👀 I’m interested in R, digital privacy and networking, and bioinformatics and genetics.
