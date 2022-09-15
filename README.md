@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @kaufmanelij
-- 👀 I’m interested in R, digital privacy and networking, and bioinformatics and genetics.
+- Hi, I’m Eli
+- I’m interested in R, Python, genetics, bioinformatics, biostatistics, digital privacy, and networking.
+- Currently working in the Valdmanis Lab at the University of Washington!
